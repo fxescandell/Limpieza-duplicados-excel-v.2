@@ -1,0 +1,9 @@
+Ejecución del Proyecto
+
+1. Instalar las Dependencias:
+pip install -r requirements.txt
+
+2. Ejecutar la Aplicación:
+python main.py
+
+Esto configura todo lo necesario para tu nuevo repositorio de la versión 2.0 del proyecto. Si necesitas más asistencia o ajustes adicionales, por favor avísame.
